@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.74a6f9d4.chunk.css",
+    "main.js": "/static/js/main.5e30be31.chunk.js",
+    "main.js.map": "/static/js/main.5e30be31.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8ee647df.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8ee647df.js.map",
+    "static/css/2.4c1694bd.chunk.css": "/static/css/2.4c1694bd.chunk.css",
+    "static/js/2.bc4c0c07.chunk.js": "/static/js/2.bc4c0c07.chunk.js",
+    "static/js/2.bc4c0c07.chunk.js.map": "/static/js/2.bc4c0c07.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4eaee0d8c3f64687228b7c869442ce49.js": "/precache-manifest.4eaee0d8c3f64687228b7c869442ce49.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.4c1694bd.chunk.css.map": "/static/css/2.4c1694bd.chunk.css.map",
+    "static/css/main.74a6f9d4.chunk.css.map": "/static/css/main.74a6f9d4.chunk.css.map",
+    "static/js/2.bc4c0c07.chunk.js.LICENSE.txt": "/static/js/2.bc4c0c07.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/static/media/1.49ab656d.png",
+    "static/media/5.png": "/static/media/5.966f7c83.png",
+    "static/media/font-awesome.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/logoWithText.png": "/static/media/logoWithText.a1adabdf.png",
+    "static/media/memoryLogo.png": "/static/media/memoryLogo.5a32c902.png",
+    "static/media/memoryLogoWithText.JPG": "/static/media/memoryLogoWithText.234b5369.JPG",
+    "static/media/simplistLogo.png": "/static/media/simplistLogo.204ef993.png",
+    "static/media/simplistLogoWithText.JPG": "/static/media/simplistLogoWithText.4c4328c8.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ee647df.js",
+    "static/css/2.4c1694bd.chunk.css",
+    "static/js/2.bc4c0c07.chunk.js",
+    "static/css/main.74a6f9d4.chunk.css",
+    "static/js/main.5e30be31.chunk.js"
+  ]
+}
